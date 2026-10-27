@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node --version)",
+      "PowerShell(npm --version)",
+      "PowerShell(npm install next@15 react@19 react-dom@19 @supabase/supabase-js 2>$null)",
+      "PowerShell(npm install -D typescript @types/react @types/react-dom @types/node tailwindcss@4 @tailwindcss/postcss@4)",
+      "PowerShell(npm install -D typescript@5)"
+    ]
+  }
+}

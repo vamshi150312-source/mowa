@@ -1,0 +1,19 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env*.local
+.DS_Store
+npm-debug.log*
+
+# Built-in backend data (database + uploads)
+data/
+
+# Self-signed HTTPS certificates for `npm run dev:https`
+certificates/
+public/mova-dev-ca.crt
+
+# Spring Boot backend: build output and the database password
+backend/target/
+backend/.env.db

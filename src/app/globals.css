@@ -1,0 +1,107 @@
+﻿@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-logo: var(--font-outfit), sans-serif;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background: #fafafa;
+  color: #171717;
+}
+
+/* Heart icon "pop" when toggled on. */
+@keyframes heart-pop {
+  0% { transform: scale(1); }
+  25% { transform: scale(1.3); }
+  55% { transform: scale(0.88); }
+  100% { transform: scale(1); }
+}
+.animate-heart-pop {
+  animation: heart-pop 0.45s cubic-bezier(0.17, 0.89, 0.32, 1.28);
+}
+
+/* Big heart over the image on double-tap. */
+@keyframes heart-burst {
+  0% { opacity: 0; transform: scale(0.2); }
+  15% { opacity: 0.95; transform: scale(1.2); }
+  30% { transform: scale(0.95); }
+  45%, 75% { opacity: 0.95; transform: scale(1); }
+  100% { opacity: 0; transform: scale(1.05) translateY(-12px); }
+}
+.animate-heart-burst {
+  animation: heart-burst 0.9s ease-out forwards;
+}
+
+/* Reaction picker: tray grows in, then each emoji pops up in turn. */
+@keyframes picker-in {
+  from { opacity: 0; transform: translateY(6px) scale(0.92); }
+  to { opacity: 1; transform: none; }
+}
+.animate-picker-in {
+  animation: picker-in 0.18s ease-out;
+}
+
+/* Bottom sheet sliding up (Reels comments). */
+@keyframes sheet-up {
+  from { transform: translateY(100%); }
+  to { transform: none; }
+}
+.animate-sheet-up {
+  animation: sheet-up 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+@keyframes emoji-in {
+  from { opacity: 0; transform: translateY(8px) scale(0.5); }
+  to { opacity: 1; transform: none; }
+}
+.animate-emoji-in {
+  animation: emoji-in 0.28s cubic-bezier(0.17, 0.89, 0.32, 1.28) backwards;
+}
+
+/* Sound on/off icon over a reel: appears, then fades. */
+@keyframes flash {
+  0% { opacity: 0; transform: scale(0.8); }
+  15% { opacity: 1; transform: scale(1); }
+  70% { opacity: 1; }
+  100% { opacity: 0; }
+}
+.animate-flash {
+  animation: flash 0.8s ease-out forwards;
+}
+
+/* Mindful break: 4s in, 4s out. */
+@keyframes breathe {
+  0%, 100% { transform: scale(0.6); }
+  50% { transform: scale(1); }
+}
+.animate-breathe {
+  animation: breathe 8s ease-in-out infinite;
+}
+
+/* Chat "typing…" dots. */
+@keyframes typing-dot {
+  0%, 60%, 100% { opacity: 0.3; transform: translateY(0); }
+  30% { opacity: 1; transform: translateY(-3px); }
+}
+.animate-typing-dot {
+  animation: typing-dot 1.2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-heart-pop,
+  .animate-heart-burst,
+  .animate-picker-in,
+  .animate-emoji-in,
+  .animate-sheet-up {
+    animation-duration: 0.01ms;
+  }
+  .animate-breathe,
+  .animate-typing-dot {
+    animation: none;
+    transform: scale(0.85);
+  }
+}

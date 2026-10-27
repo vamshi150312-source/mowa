@@ -1,0 +1,1167 @@
+{
+ "password": "password123",
+ "demoEmail": "demo@mova.dev",
+ "users": [
+  {
+   "id": "u-demo",
+   "email": "demo@mova.dev",
+   "username": "demo",
+   "fullName": "Demo User",
+   "bio": "Just exploring Mova ✨",
+   "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-ava",
+   "email": "ava@mova.dev",
+   "username": "ava.wanders",
+   "fullName": "Ava Martinez",
+   "bio": "Chasing sunsets & mountain air 🏔️\nBased in Denver",
+   "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-leo",
+   "email": "leo@mova.dev",
+   "username": "leo.eats",
+   "fullName": "Leo Chen",
+   "bio": "Home cook. Coffee snob. ☕🍜",
+   "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-maya",
+   "email": "maya@mova.dev",
+   "username": "maya.frames",
+   "fullName": "Maya Patel",
+   "bio": "Street & city photography 📷",
+   "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-sam",
+   "email": "sam@mova.dev",
+   "username": "sam.and.biscuit",
+   "fullName": "Sam Rivera",
+   "bio": "Biscuit the golden retriever runs this account 🐶",
+   "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-zoe",
+   "email": "zoe@mova.dev",
+   "username": "zoe.travels",
+   "fullName": "Zoe Kim",
+   "bio": "32 countries and counting ✈️",
+   "avatarUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-omar",
+   "email": "omar@mova.dev",
+   "username": "omar.lifts",
+   "fullName": "Omar Haddad",
+   "bio": "Coach • Strength & mobility 💪",
+   "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-nina",
+   "email": "nina@mova.dev",
+   "username": "nina.and.cats",
+   "fullName": "Nina Rossi",
+   "bio": "Three cats, zero regrets 🐈",
+   "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-jay",
+   "email": "jay@mova.dev",
+   "username": "jay.sounds",
+   "fullName": "Jay Brooks",
+   "bio": "Producer / DJ 🎧 New mix every Friday",
+   "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-lena",
+   "email": "lena@mova.dev",
+   "username": "lena.bakes",
+   "fullName": "Lena Fischer",
+   "bio": "Recipes from my tiny Berlin kitchen 🥐",
+   "avatarUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-raj",
+   "email": "raj@mova.dev",
+   "username": "raj.outdoors",
+   "fullName": "Raj Singh",
+   "bio": "Trails, peaks and waterfalls 🌲",
+   "avatarUrl": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-chloe",
+   "email": "chloe@mova.dev",
+   "username": "chloe.citylights",
+   "fullName": "Chloe Dubois",
+   "bio": "Cities after dark 🌃",
+   "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=200&h=200&q=80"
+  },
+  {
+   "id": "u-mateo",
+   "email": "mateo@mova.dev",
+   "username": "mateo.pups",
+   "fullName": "Mateo Garcia",
+   "bio": "Dog walker & professional ball thrower 🎾",
+   "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=200&h=200&q=80"
+  }
+ ],
+ "posts": [
+  {
+   "id": "p-1",
+   "userId": "u-ava",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Woke up at 4am for this view and I'd do it again 🌄 #yosemite",
+   "hoursAgo": 2
+  },
+  {
+   "id": "p-2",
+   "userId": "u-maya",
+   "mediaType": "video",
+   "imageUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+   "caption": "Spring, in slow motion 🌸 Tap for sound.",
+   "hoursAgo": 11
+  },
+  {
+   "id": "p-3",
+   "userId": "u-leo",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Sunday brunch hits different when you make it yourself 🍳",
+   "hoursAgo": 20
+  },
+  {
+   "id": "p-4",
+   "userId": "u-zoe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Bonjour from Paris 🇫🇷",
+   "hoursAgo": 29
+  },
+  {
+   "id": "p-5",
+   "userId": "u-maya",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "City lights from 40 floors up. Never gets old.",
+   "hoursAgo": 38
+  },
+  {
+   "id": "p-6",
+   "userId": "u-lena",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Friday pizza night, dough proofed for 48 hours 🍕",
+   "hoursAgo": 47
+  },
+  {
+   "id": "p-7",
+   "userId": "u-sam",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Biscuit has discovered 'sit for treat' and is now unstoppable",
+   "hoursAgo": 56
+  },
+  {
+   "id": "p-8",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Fog rolling over the ridge this morning",
+   "hoursAgo": 65
+  },
+  {
+   "id": "p-9",
+   "userId": "u-nina",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Mochi judging my life choices again",
+   "hoursAgo": 74
+  },
+  {
+   "id": "p-10",
+   "userId": "u-jay",
+   "mediaType": "video",
+   "imageUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/friday.mp4",
+   "caption": "Friday mood 🎬",
+   "hoursAgo": 83
+  },
+  {
+   "id": "p-11",
+   "userId": "u-ava",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Glassy lake, zero wind, perfect morning. 💙",
+   "hoursAgo": 92
+  },
+  {
+   "id": "p-12",
+   "userId": "u-omar",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Leg day. No excuses.",
+   "hoursAgo": 101
+  },
+  {
+   "id": "p-13",
+   "userId": "u-chloe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Skyline at blue hour",
+   "hoursAgo": 110
+  },
+  {
+   "id": "p-14",
+   "userId": "u-leo",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Pour-over ritual ☕ What's your morning brew?",
+   "hoursAgo": 119
+  },
+  {
+   "id": "p-15",
+   "userId": "u-mateo",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Meet Pepper, the newest member of the pack",
+   "hoursAgo": 128
+  },
+  {
+   "id": "p-16",
+   "userId": "u-zoe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Rainy London, still lovely ☔",
+   "hoursAgo": 137
+  },
+  {
+   "id": "p-17",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Sunlight through the pines",
+   "hoursAgo": 146
+  },
+  {
+   "id": "p-18",
+   "userId": "u-lena",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Pancake stack for the win 🥞",
+   "hoursAgo": 155
+  },
+  {
+   "id": "p-19",
+   "userId": "u-maya",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Golden hour in the studio. Soft light, slow day.",
+   "hoursAgo": 164
+  },
+  {
+   "id": "p-20",
+   "userId": "u-jay",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "New track dropping this week 🎹",
+   "hoursAgo": 173
+  },
+  {
+   "id": "p-21",
+   "userId": "u-nina",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Sunbeam acquired ☀️",
+   "hoursAgo": 182
+  },
+  {
+   "id": "p-22",
+   "userId": "u-ava",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Camped under a sky full of stars last night ✨🏕️",
+   "hoursAgo": 191
+  },
+  {
+   "id": "p-23",
+   "userId": "u-zoe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Tokyo nights 🗼",
+   "hoursAgo": 200
+  },
+  {
+   "id": "p-24",
+   "userId": "u-omar",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Consistency > intensity",
+   "hoursAgo": 209
+  },
+  {
+   "id": "p-25",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Lake day 🏞️",
+   "hoursAgo": 218
+  },
+  {
+   "id": "p-26",
+   "userId": "u-chloe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Street corners and neon",
+   "hoursAgo": 227
+  },
+  {
+   "id": "p-27",
+   "userId": "u-leo",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Meal prep bowls for the week. Colour = flavour 🥗",
+   "hoursAgo": 236
+  },
+  {
+   "id": "p-28",
+   "userId": "u-mateo",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Zoomies at the park",
+   "hoursAgo": 245
+  },
+  {
+   "id": "p-29",
+   "userId": "u-lena",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Lunch bowl with everything in the fridge",
+   "hoursAgo": 254
+  },
+  {
+   "id": "p-30",
+   "userId": "u-jay",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Last night's crowd was unreal 🙌",
+   "hoursAgo": 263
+  },
+  {
+   "id": "p-31",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Golden valley",
+   "hoursAgo": 272
+  },
+  {
+   "id": "p-32",
+   "userId": "u-zoe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Quiet morning in Kyoto ⛩️",
+   "hoursAgo": 281
+  },
+  {
+   "id": "p-33",
+   "userId": "u-maya",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Took a break from the city. Found this. 🌊",
+   "hoursAgo": 290
+  },
+  {
+   "id": "p-34",
+   "userId": "u-nina",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1574158622682-e40e69881006?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Nap champion, three years running",
+   "hoursAgo": 299
+  },
+  {
+   "id": "p-35",
+   "userId": "u-chloe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1496568816309-51d7c20e3b21?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "NYC, always moving",
+   "hoursAgo": 308
+  },
+  {
+   "id": "p-36",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Wildflower season 🌼",
+   "hoursAgo": 317
+  },
+  {
+   "id": "p-37",
+   "userId": "u-lena",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Grill season is officially open 🔥",
+   "hoursAgo": 326
+  },
+  {
+   "id": "p-38",
+   "userId": "u-sam",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Biscuit's friend came over for a playdate",
+   "hoursAgo": 335
+  },
+  {
+   "id": "p-39",
+   "userId": "u-zoe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "One more from Paris, I couldn't choose",
+   "hoursAgo": 344
+  },
+  {
+   "id": "p-40",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Worth the 6 mile hike 💦",
+   "hoursAgo": 353
+  },
+  {
+   "id": "p-41",
+   "userId": "u-jay",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Good friends, good music",
+   "hoursAgo": 362
+  },
+  {
+   "id": "p-42",
+   "userId": "u-leo",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Latte art attempt #47",
+   "hoursAgo": 371
+  },
+  {
+   "id": "p-43",
+   "userId": "u-chloe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Night lights",
+   "hoursAgo": 380
+  },
+  {
+   "id": "p-44",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "From above 🦅",
+   "hoursAgo": 389
+  },
+  {
+   "id": "p-45",
+   "userId": "u-zoe",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Pool with a view. I'm never leaving.",
+   "hoursAgo": 398
+  },
+  {
+   "id": "p-46",
+   "userId": "u-lena",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Colourful dinner for colourful people",
+   "hoursAgo": 407
+  },
+  {
+   "id": "p-47",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "The road less travelled",
+   "hoursAgo": 416
+  },
+  {
+   "id": "p-48",
+   "userId": "u-jay",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Studio session with the team",
+   "hoursAgo": 425
+  },
+  {
+   "id": "p-49",
+   "userId": "u-leo",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Coffee and a good book",
+   "hoursAgo": 434
+  },
+  {
+   "id": "p-50",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Mountain sunrise",
+   "hoursAgo": 443
+  },
+  {
+   "id": "p-51",
+   "userId": "u-lena",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Dinner out for once 🍷",
+   "hoursAgo": 452
+  },
+  {
+   "id": "p-52",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Open road",
+   "hoursAgo": 461
+  },
+  {
+   "id": "p-53",
+   "userId": "u-raj",
+   "mediaType": "image",
+   "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?auto=format&fit=crop&w=1080&h=1080&q=80",
+   "caption": "Sunset over the bay 🌅",
+   "hoursAgo": 470
+  },
+  {
+   "id": "r-1",
+   "userId": "u-mateo",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/9314158/9314158-sd_540_960_25fps.mp4",
+   "caption": "Puppy zoomies, the purest form of joy 🐾",
+   "hoursAgo": 4
+  },
+  {
+   "id": "r-2",
+   "userId": "u-jay",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/7722349/7722349-sd_540_960_25fps.mp4",
+   "caption": "Last night's set. The drop at 0:08 🔊",
+   "hoursAgo": 11
+  },
+  {
+   "id": "r-3",
+   "userId": "u-leo",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/6247888/6247888-sd_540_960_24fps.mp4",
+   "caption": "Plating like it's a restaurant, eating like it's my couch 🍝",
+   "hoursAgo": 19
+  },
+  {
+   "id": "r-4",
+   "userId": "u-raj",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/5492238/5492238-sd_540_960_30fps.mp4",
+   "caption": "Turn the sound up for this one 💦",
+   "hoursAgo": 27
+  },
+  {
+   "id": "r-5",
+   "userId": "u-nina",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/13668983/13668983-sd_540_960_30fps.mp4",
+   "caption": "Mochi vs. Tofu, round 47 🐈",
+   "hoursAgo": 36
+  },
+  {
+   "id": "r-6",
+   "userId": "u-omar",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/4761432/4761432-sd_506_960_25fps.mp4",
+   "caption": "5 minutes of jump rope > 20 minutes on the treadmill. Fight me.",
+   "hoursAgo": 44
+  },
+  {
+   "id": "r-7",
+   "userId": "u-lena",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/6287159/6287159-sd_540_960_25fps.mp4",
+   "caption": "Weigh your flour. Every time. Trust me 🥐",
+   "hoursAgo": 55
+  },
+  {
+   "id": "r-8",
+   "userId": "u-sam",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/10976377/10976377-sd_540_960_30fps.mp4",
+   "caption": "Biscuit and friends discover snow ❄️",
+   "hoursAgo": 63
+  },
+  {
+   "id": "r-9",
+   "userId": "u-ava",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/4809087/4809087-sd_540_960_30fps.mp4",
+   "caption": "Slow motion makes everything better",
+   "hoursAgo": 74
+  },
+  {
+   "id": "r-10",
+   "userId": "u-jay",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/3403583/3403583-sd_506_960_25fps.mp4",
+   "caption": "When the whole room is on the same wavelength 🙌",
+   "hoursAgo": 86
+  },
+  {
+   "id": "r-11",
+   "userId": "u-nina",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/6001288/6001288-sd_540_960_24fps.mp4",
+   "caption": "She heard the treat bag.",
+   "hoursAgo": 97
+  },
+  {
+   "id": "r-12",
+   "userId": "u-leo",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/4252801/4252801-sd_506_960_25fps.mp4",
+   "caption": "Fresh pasta, no machine. Recipe in comments? 👇",
+   "hoursAgo": 112
+  },
+  {
+   "id": "r-13",
+   "userId": "u-omar",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/4754031/4754031-sd_506_960_25fps.mp4",
+   "caption": "Push-up form check: chest to the floor, every rep",
+   "hoursAgo": 128
+  },
+  {
+   "id": "r-14",
+   "userId": "u-mateo",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/7197970/7197970-sd_540_960_25fps.mp4",
+   "caption": "Fluff overload ☁️",
+   "hoursAgo": 146
+  },
+  {
+   "id": "r-15",
+   "userId": "u-raj",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/1066953/1066953-sd_540_960_30fps.mp4",
+   "caption": "Found the waterfall at the end of the trail",
+   "hoursAgo": 170
+  },
+  {
+   "id": "r-16",
+   "userId": "u-sam",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/7297313/7297313-sd_540_960_24fps.mp4",
+   "caption": "Tug of war champion, undefeated",
+   "hoursAgo": 198
+  },
+  {
+   "id": "r-17",
+   "userId": "u-zoe",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/7823396/7823396-sd_540_960_30fps.mp4",
+   "caption": "Island hopping, day 3. No plans, just boats 🛶",
+   "hoursAgo": 8
+  },
+  {
+   "id": "r-18",
+   "userId": "u-leo",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/6963730/6963730-sd_540_960_24fps.mp4",
+   "caption": "The 7am pour. Best sound in the world ☕",
+   "hoursAgo": 15
+  },
+  {
+   "id": "r-19",
+   "userId": "u-maya",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/9970751/9970751-sd_540_960_30fps.mp4",
+   "caption": "Hong Kong from the top deck of a tram 🚋",
+   "hoursAgo": 23
+  },
+  {
+   "id": "r-20",
+   "userId": "u-jay",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/9749710/9749710-sd_540_960_25fps.mp4",
+   "caption": "Friday crowd energy is unmatched 🪩",
+   "hoursAgo": 31
+  },
+  {
+   "id": "r-21",
+   "userId": "u-raj",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/19956889/19956889-sd_540_960_30fps.mp4",
+   "caption": "Kedarkantha summit push. Worth every frozen toe ❄️",
+   "hoursAgo": 40
+  },
+  {
+   "id": "r-22",
+   "userId": "u-ava",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/12660738/12660738-sd_540_960_30fps.mp4",
+   "caption": "Chasing waves like I'm five again 🌊",
+   "hoursAgo": 50
+  },
+  {
+   "id": "r-23",
+   "userId": "u-chloe",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/10741262/10741262-sd_540_960_30fps.mp4",
+   "caption": "Kuala Lumpur after dark ✨",
+   "hoursAgo": 58
+  },
+  {
+   "id": "r-24",
+   "userId": "u-zoe",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/8865246/8865246-sd_506_960_25fps.mp4",
+   "caption": "Desert road, no signal, no problem 🏜️",
+   "hoursAgo": 67
+  },
+  {
+   "id": "r-25",
+   "userId": "u-maya",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/8929211/8929211-sd_540_960_30fps.mp4",
+   "caption": "Caught this on 5th Ave. The city is a stage 💃",
+   "hoursAgo": 79
+  },
+  {
+   "id": "r-26",
+   "userId": "u-leo",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/15033362/15033362-sd_540_960_30fps.mp4",
+   "caption": "Moka pot appreciation post",
+   "hoursAgo": 90
+  },
+  {
+   "id": "r-27",
+   "userId": "u-zoe",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/10531835/10531835-sd_540_960_30fps.mp4",
+   "caption": "Istanbul's Çiçek Pasajı 🇹🇷",
+   "hoursAgo": 104
+  },
+  {
+   "id": "r-28",
+   "userId": "u-chloe",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/8462345/8462345-sd_506_960_25fps.mp4",
+   "caption": "Rehearsal night at the studio 🩰",
+   "hoursAgo": 118
+  },
+  {
+   "id": "r-29",
+   "userId": "u-maya",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/5834559/5834559-sd_540_960_24fps.mp4",
+   "caption": "Yellow cabs, golden hour 🚕",
+   "hoursAgo": 134
+  },
+  {
+   "id": "r-30",
+   "userId": "u-jay",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/7197863/7197863-sd_540_960_25fps.mp4",
+   "caption": "Neon session. Turn it up 🔊",
+   "hoursAgo": 152
+  },
+  {
+   "id": "r-31",
+   "userId": "u-ava",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/6318874/6318874-sd_540_960_25fps.mp4",
+   "caption": "Stopped the car just to stand here for a minute",
+   "hoursAgo": 165
+  },
+  {
+   "id": "r-32",
+   "userId": "u-zoe",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/6316961/6316961-sd_540_960_25fps.mp4",
+   "caption": "Walking the old railway line 🛤️",
+   "hoursAgo": 182
+  },
+  {
+   "id": "r-33",
+   "userId": "u-leo",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/19389080/19389080-sd_540_960_30fps.mp4",
+   "caption": "Cold brew season is never over",
+   "hoursAgo": 210
+  },
+  {
+   "id": "r-34",
+   "userId": "u-raj",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/12660645/12660645-sd_540_960_30fps.mp4",
+   "caption": "Ocean therapy 🌊",
+   "hoursAgo": 240
+  },
+  {
+   "id": "r-35",
+   "userId": "u-maya",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/6082600/6082600-sd_540_960_24fps.mp4",
+   "caption": "Rush hour, slowed down",
+   "hoursAgo": 265
+  },
+  {
+   "id": "r-36",
+   "userId": "u-zoe",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/7824479/7824479-sd_540_960_30fps.mp4",
+   "caption": "Street food crawl, round two 🍢",
+   "hoursAgo": 290
+  },
+  {
+   "id": "r-37",
+   "userId": "u-chloe",
+   "mediaType": "video",
+   "imageUrl": "https://videos.pexels.com/video-files/6343885/6343885-sd_506_960_30fps.mp4",
+   "caption": "Coffee break between shoots",
+   "hoursAgo": 320
+  }
+ ],
+ "polls": {
+  "p-1": {
+   "question": "Sunrise or sunset?",
+   "options": [
+    "Sunrise 🌄",
+    "Sunset 🌇"
+   ]
+  },
+  "p-4": {
+   "question": "Where should I go next?",
+   "options": [
+    "Lisbon",
+    "Seoul",
+    "Mexico City"
+   ]
+  },
+  "p-6": {
+   "question": "Pineapple on pizza?",
+   "options": [
+    "Yes 🍍",
+    "Absolutely not"
+   ]
+  },
+  "p-14": {
+   "question": "What's your morning brew?",
+   "options": [
+    "Pour-over ☕",
+    "Espresso",
+    "Tea 🍵",
+    "Energy drink 😅"
+   ]
+  },
+  "p-20": {
+   "question": "What should the next mix be?",
+   "options": [
+    "House",
+    "Lo-fi",
+    "Drum & bass"
+   ]
+  }
+ },
+ "filters": {
+  "p-8": "fade",
+  "p-11": "vivid",
+  "p-13": "cool",
+  "p-22": "dream",
+  "p-26": "noir",
+  "p-31": "warm",
+  "p-35": "noir",
+  "p-42": "retro"
+ },
+ "music": {
+  "r-1": "monkeys-spinning-monkeys",
+  "r-2": "club-diver",
+  "r-4": "inspired",
+  "r-5": "sneaky-snitch",
+  "r-6": "funky-chunk",
+  "r-7": "bossa-antigua",
+  "r-10": "hyperfun",
+  "r-13": "funky-chunk",
+  "r-14": "fluffing-a-duck",
+  "r-17": "dreamer",
+  "r-18": "jazz-brunch",
+  "r-20": "groove-grove",
+  "r-21": "inspired",
+  "r-24": "dreamer",
+  "r-25": "life-of-riley",
+  "r-26": "easy-lemon",
+  "r-27": "airport-lounge",
+  "r-28": "chill-wave",
+  "r-30": "hyperfun",
+  "r-31": "chill-wave",
+  "r-32": "dreamer",
+  "r-33": "easy-lemon",
+  "r-36": "carefree",
+  "r-37": "jazz-brunch"
+ },
+ "stories": [
+  {
+   "userKey": "ava",
+   "mediaType": "image",
+   "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1080&h=1920&q=80",
+   "caption": "Morning swim? 🥶",
+   "music": "carefree"
+  },
+  {
+   "userKey": "ava",
+   "mediaType": "video",
+   "url": "https://videos.pexels.com/video-files/8420036/8420036-sd_540_960_30fps.mp4",
+   "caption": "Today's office"
+  },
+  {
+   "userKey": "zoe",
+   "mediaType": "image",
+   "url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1080&h=1920&q=80",
+   "caption": "Last night in Tokyo 🗼",
+   "music": "night-vigil"
+  },
+  {
+   "userKey": "zoe",
+   "mediaType": "image",
+   "url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1080&h=1920&q=80",
+   "caption": ""
+  },
+  {
+   "userKey": "zoe",
+   "mediaType": "video",
+   "url": "https://videos.pexels.com/video-files/8456417/8456417-sd_540_960_30fps.mp4",
+   "caption": "Rooftop vibes 🍹",
+   "music": "beachfront-celebration"
+  },
+  {
+   "userKey": "leo",
+   "mediaType": "video",
+   "url": "https://videos.pexels.com/video-files/6963730/6963730-sd_540_960_24fps.mp4",
+   "caption": "Pour #2 of the day",
+   "music": "jazz-brunch"
+  },
+  {
+   "userKey": "leo",
+   "mediaType": "image",
+   "url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1080&h=1920&q=80",
+   "caption": "Brunch is served 🍳"
+  },
+  {
+   "userKey": "jay",
+   "mediaType": "video",
+   "url": "https://videos.pexels.com/video-files/7197863/7197863-sd_540_960_25fps.mp4",
+   "caption": "Studio tonight 🎧",
+   "music": "club-diver"
+  },
+  {
+   "userKey": "nina",
+   "mediaType": "image",
+   "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=1080&h=1920&q=80",
+   "caption": "Do not disturb 😴",
+   "music": "sneaky-snitch"
+  },
+  {
+   "userKey": "chloe",
+   "mediaType": "video",
+   "url": "https://videos.pexels.com/video-files/10637175/10637175-sd_506_960_25fps.mp4",
+   "caption": "Behind the scenes 🩰",
+   "music": "chill-wave"
+  },
+  {
+   "userKey": "chloe",
+   "mediaType": "image",
+   "url": "https://images.unsplash.com/photo-1496568816309-51d7c20e3b21?auto=format&fit=crop&w=1080&h=1920&q=80",
+   "caption": ""
+  },
+  {
+   "userKey": "raj",
+   "mediaType": "image",
+   "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1080&h=1920&q=80",
+   "caption": "Trailhead at 5am",
+   "music": "inspired"
+  },
+  {
+   "userKey": "lena",
+   "mediaType": "image",
+   "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=1080&h=1920&q=80",
+   "caption": "Dough is proofing 🍕"
+  },
+  {
+   "userKey": "mateo",
+   "mediaType": "video",
+   "url": "https://videos.pexels.com/video-files/9314158/9314158-sd_540_960_25fps.mp4",
+   "caption": "The pack says hi 🐾",
+   "music": "monkeys-spinning-monkeys"
+  }
+ ],
+ "messages": [
+  {
+   "with": "ava",
+   "fromDemo": false,
+   "body": "Are you still up for the hike on Saturday? 🥾",
+   "hoursAgo": 30
+  },
+  {
+   "with": "ava",
+   "fromDemo": true,
+   "body": "Yes!! What time?",
+   "hoursAgo": 29.5
+  },
+  {
+   "with": "ava",
+   "fromDemo": false,
+   "body": "Trailhead at 6. Bring layers, it's cold up there",
+   "hoursAgo": 29.4
+  },
+  {
+   "with": "ava",
+   "fromDemo": true,
+   "body": "Deal 🙌",
+   "hoursAgo": 29
+  },
+  {
+   "with": "leo",
+   "fromDemo": true,
+   "body": "",
+   "postId": "p-6",
+   "hoursAgo": 20
+  },
+  {
+   "with": "leo",
+   "fromDemo": true,
+   "body": "48 hour dough?? We need to try this",
+   "hoursAgo": 20
+  },
+  {
+   "with": "leo",
+   "fromDemo": false,
+   "body": "Lena's pizza is the real deal. Friday at mine?",
+   "hoursAgo": 19
+  },
+  {
+   "with": "zoe",
+   "fromDemo": false,
+   "body": "Okay Tokyo was unreal. Sending you my list of spots",
+   "hoursAgo": 52
+  },
+  {
+   "with": "zoe",
+   "fromDemo": true,
+   "body": "Please do, I'm planning for spring 🌸",
+   "hoursAgo": 50
+  },
+  {
+   "with": "maya",
+   "fromDemo": false,
+   "body": "Hey! Loved your last post",
+   "hoursAgo": 3
+  },
+  {
+   "with": "maya",
+   "fromDemo": false,
+   "body": "Want to do a photo walk this weekend? 📷",
+   "hoursAgo": 2.8,
+   "unread": true
+  },
+  {
+   "with": "jay",
+   "fromDemo": false,
+   "body": "New mix is up 🎧 tell me what you think",
+   "postId": "p-20",
+   "hoursAgo": 6,
+   "unread": true
+  }
+ ],
+ "commentPool": [
+  "Wow 😍",
+  "This is stunning!",
+  "Need to go here asap",
+  "Love this 🔥",
+  "Incredible shot",
+  "Okay this made my day",
+  "So good 👏",
+  "Teach me your ways",
+  "Saving this one",
+  "Unreal colours",
+  "Goals 🙌",
+  "Where is this?",
+  "Recipe please!!",
+  "Absolutely beautiful",
+  "😂😂 love it",
+  "Can't stop looking at this",
+  "This is the content I'm here for 🙌",
+  "Okay but the colours!!",
+  "Adding this to my list",
+  "How do you always find these spots?",
+  "Vibes 💯",
+  "I need a part 2",
+  "Underrated post",
+  "This made me smile",
+  "Wow, just wow",
+  "Sending this to my group chat",
+  "The way I gasped 😮",
+  "Perfection",
+  "Can we talk about this?? 🔥",
+  "Living for this",
+  "Take me with you next time",
+  "Such a mood",
+  "Love the energy here",
+  "Bookmarking immediately",
+  "Your feed never misses",
+  "Real ones know 😎"
+ ],
+ "chatOpeners": [
+  "Hey! How's your week going?",
+  "Saw your story 😂",
+  "Are you free this weekend?",
+  "Okay I have to tell you something",
+  "Coffee soon? ☕",
+  "Thinking of you, hope all is well 💛",
+  "Did you see the sunset tonight??",
+  "I found the best new spot, you'd love it"
+ ],
+ "replies": {
+  "greeting": [
+   "Hey!! 👋",
+   "Hiii, what's up?",
+   "Heyy! Good to hear from you",
+   "Hey you 😊"
+  ],
+  "question": [
+   "Ooh good question 🤔",
+   "Honestly? Yes!",
+   "Hmm let me check and get back to you",
+   "I think so! Why, what's up?",
+   "Not sure yet, what do you think?"
+  ],
+  "post": [
+   "Haha love this 😂",
+   "Omg where is this??",
+   "Okay I need this in my life",
+   "Saving it, thanks for sending!",
+   "This is so good 🔥"
+  ],
+  "thanks": [
+   "Anytime! 💛",
+   "Of course 😊",
+   "No worries at all"
+  ],
+  "general": [
+   "Haha totally",
+   "Love that 😍",
+   "Sounds good to me!",
+   "Wait really?? Tell me more",
+   "100% 🙌",
+   "Ha, same here",
+   "Okay that made me smile",
+   "Let's do it!"
+  ]
+ }
+}
